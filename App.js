@@ -8,7 +8,7 @@ const App = () => {
         justifyContent: 'center',
         alignItems: 'center'
       }}>
-      <Text>Welcome to react native</Text>
+      <Text>Hello abhijeet shikha</Text>
     </View>
   );
 }
